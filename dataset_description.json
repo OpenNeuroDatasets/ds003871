@@ -13,6 +13,8 @@
     "Funding": [
         "Scientific Research Network on Decision Neuroscience and Aging (NIA R24-AG054355)"
     ],
-    "ReferencesAndLinks": [],
+    "ReferencesAndLinks": [
+        "https://osf.io/f6vg8/"
+    ],
     "DatasetDOI": "doi:10.18112/openneuro.ds003871.v1.0.0"
 }
