@@ -10,7 +10,9 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "Wahlheim, C. N., Christensen, A. P., Reagh, Z. M., & Cassidy, B. S. (2021). Intrinsic functional connectivity in the default mode network predicts mnemonic discrimination: A connectome-based modeling approach. bioRxiv. https://doi.org/10.1101/2021.07.09.451777",
-    "Funding": [],
+    "Funding": [
+        "Scientific Research Network on Decision Neuroscience and Aging (NIA R24-AG054355)"
+    ],
     "ReferencesAndLinks": [],
     "DatasetDOI": "doi:10.18112/openneuro.ds003871.v1.0.0"
 }
