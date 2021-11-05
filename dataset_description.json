@@ -1,7 +1,7 @@
 {
     "Name": "",
     "BIDSVersion": "1.0.2",
-    "License": "CC-By Attribution 4.0 International",
+    "License": "CC0",
     "Authors": [
         "Christopher N. Wahlheim",
         "Alexander P. Christensen",
@@ -18,5 +18,5 @@
     "ReferencesAndLinks": [
         ""
     ],
-    "DatasetDOI": ""
+    "DatasetDOI": "doi:10.18112/openneuro.ds003871.v1.0.0"
 }
