@@ -1,0 +1,22 @@
+{
+    "Name": "",
+    "BIDSVersion": "1.0.2",
+    "License": "CC0",
+    "Authors": [
+        "Christopher N. Wahlheim",
+        "Alexander P. Christensen",
+        "Brittany S. Cassidy",
+        "Zachariah M. Reagh"
+    ],
+    "Acknowledgements": "",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "",
+        "",
+        ""
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds003871.v1.0.0"
+}
